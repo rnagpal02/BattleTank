@@ -1,2 +1,4 @@
-# BattleTank
-An open-world head-to-head fight with simple AI, terrain, and advanced control system in Unreal 4.
+Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
+ 
+ ## Lecture List
+ * BT01 Intro, Notes & Assets
