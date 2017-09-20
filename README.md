@@ -11,3 +11,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT08 Using Landscape Layers
  * BT09 Adding To Landscape
  * BT10 Actors from Multiple Meshes
+ * BT11 Configuring Tank & Adding 3rd Person Camera Rotation
