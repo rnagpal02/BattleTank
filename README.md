@@ -16,3 +16,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT13 Main Menu Screens
  * BT14 UI Scale Box, Buttons, Mouse, & Trial Packaging
  * BT15 Delating Components & Using Virtual and Override
+ * BT16 Creating an AI Controller Class
