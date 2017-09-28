@@ -18,3 +18,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT15 Delating Components & Using Virtual and Override
  * BT16 Creating an AI Controller Class
  * BT17 Get the Player Controller with C++
+ * BT18 Adding Tick() and Creating an Out Parameter Method
