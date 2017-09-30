@@ -21,3 +21,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT18 Adding Tick() and Creating an Out Parameter Method
  * BT19 Finding Screen Pixel Coordinates
  * BT20 Using DeprojectScreentoWorld
+ * BT20 Using LineTraceSingleByChannel()
