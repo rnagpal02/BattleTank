@@ -24,3 +24,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT20 Using LineTraceSingleByChannel()
  * BT22 Unify Player & AI Aiming
  * BT23 Creat Default Sub Objects in C++
+ * BT24 Blueprint Callable()
