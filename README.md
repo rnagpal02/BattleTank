@@ -31,3 +31,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT28 Review and Refining
  * BT29 Fixing Bugs & Adding Forward Declarations
  * BT30 Using Clamp() & Elevating Barrel
+ * BT31 Turret Rotation
