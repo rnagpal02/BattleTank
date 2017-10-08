@@ -1,7 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Tank.h"
-class UTankBarrel;
+#include "TankAimingComponent.h"
+//class UTankBarrel;
 
 // Sets default values
 ATank::ATank()

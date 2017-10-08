@@ -29,3 +29,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT26 Using Forward Declarations
  * BT27 BlueprintSpawnableComponent()
  * BT28 Review and Refining
+ * BT29 Fixing Bugs & Adding Forward Declarations
