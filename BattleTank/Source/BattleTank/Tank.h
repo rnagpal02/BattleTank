@@ -17,10 +17,14 @@ class BATTLETANK_API ATank : public APawn
 public:
 	// Sets default values for this pawn's properties
 	ATank();
-	void AimAt(FVector HitLocation);
 
 	UFUNCTION(BlueprintCallable, Category = Setup)
 	void SetObjectReference(UTankBarrel* BarrelToSet, UTankTurret * TurretToSet);
+
+	UFUNCTION(BlueprintCallable, Category = Setup)
+	void Fire();
+
+	void AimAt(FVector HitLocation);
 
 protected:
 	UTankAimingComponent* TankAimingComponent = nullptr;
