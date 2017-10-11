@@ -34,3 +34,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT31 Turret Rotation
  * BT32 Setting Up Projectiles and Firing
  * BT33 Spawning Projectile
+ * BT34 Projectile Movement Components
