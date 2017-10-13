@@ -36,3 +36,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT33 Spawning Projectile
  * BT34 Projectile Movement Components
  * BT35 Making AI Tanks Fire
+ * BT36 Adding EditDefaultsOnly
