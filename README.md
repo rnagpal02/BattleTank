@@ -37,3 +37,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT34 Projectile Movement Components
  * BT35 Making AI Tanks Fire
  * BT36 Adding EditDefaultsOnly
+ * BT37 Adding Quit Button & Setting Up Track Throttles
