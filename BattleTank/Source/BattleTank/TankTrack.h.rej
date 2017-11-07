@@ -1,0 +1,15 @@
+diff a/BattleTank/Source/BattleTank/TankTrack.h b/BattleTank/Source/BattleTank/TankTrack.h	(rejected hunks)
+@@ -19,7 +19,13 @@
+ 	UFUNCTION(BlueprintCallable, Category = Input)
+ 	void SetThrottle(float Throttle);
+ 	
++<<<<<<< HEAD
+ 	// Max force per track in newtons
+ 	UPROPERTY(EditDefaultsOnly)
+ 	float TrackMaxDrivingForce = 400000; // Assume 40 ton tank, and 10 m/s/s acceleration
++=======
++	// Max force per track, in newtons
++	UPROPERTY(EditAnywhere)
++	float TrackMaxDrivingForce = 400000; // Assume 40 ton tank, and 1g acceleration
++>>>>>>> origin/master
+ };

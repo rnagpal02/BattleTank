@@ -1,0 +1,13 @@
+diff a/BattleTank/Config/DefaultInput.ini b/BattleTank/Config/DefaultInput.ini	(rejected hunks)
+@@ -62,7 +62,11 @@
+ -ActionMappings=(ActionName="Quit",Key=Escape,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+ -ActionMappings=(ActionName="Quit",Key=Gamepad_Special_Left,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+ -ActionMappings=(ActionName="Firing",Key=LeftMouseButton,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
++<<<<<<< HEAD
+ -ActionMappings=(ActionName="Both Track Throttle",Key=W,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
++=======
++-ActionMappings=(ActionName="Left Track Throttle",Key=Gamepad_LeftTriggerAxis,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
++>>>>>>> origin/master
+ +ActionMappings=(ActionName="Quit",Key=Escape,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+ +ActionMappings=(ActionName="Quit",Key=Gamepad_Special_Left,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
+ +ActionMappings=(ActionName="Firing",Key=LeftMouseButton,bShift=False,bCtrl=False,bAlt=False,bCmd=False)
