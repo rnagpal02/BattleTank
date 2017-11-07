@@ -41,3 +41,4 @@ Battle Tanks game in section 4 of Ben Tristem's Unreal Engine 4 course on Udemy.
  * BT38 Using ApplyForceAtLocation()
  * BT39 Physics Materials & Friction
  * BT40 Setting Up Fly-by-Wire Control System
+ * BT41 Using BlueprintReadOnly
